@@ -1,0 +1,24 @@
+com/news_headings/utility/extent_report/ExtentManager.java
+ com.news_headings.utility.extent_report.ExtentManager
+com/news_headings/pages/News_Page.java
+ com.news_headings.pages.News_Page
+com/news_headings/constants/IConstants.java
+ com.news_headings.constants.IConstants
+com/news_headings/utility/CaptureScreenshot.java
+ com.news_headings.utility.CaptureScreenshot
+com/news_headings/base/BaseClass.java
+ com.news_headings.base.BaseClass
+com/news_headings/utility/extent_report/ExtentTestManager.java
+ com.news_headings.utility.extent_report.ExtentTestManager
+com/news_headings/utility/JavaScript.java
+ com.news_headings.utility.JavaScript
+com/news_headings/utility/FileNotFoundException.java
+ com.news_headings.utility.FileNotFoundException
+com/news_headings/utility/listeners/TestListener.java
+ com.news_headings.utility.listeners.TestListener
+com/news_headings/utility/CrossBrowser.java
+ com.news_headings.utility.CrossBrowser
+com/news_headings/utility/ExcelUtil.java
+ com.news_headings.utility.ExcelUtil
+com/news_headings/utility/Log.java
+ com.news_headings.utility.Log
